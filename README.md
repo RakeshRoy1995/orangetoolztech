@@ -2,10 +2,10 @@ Project deployment documentation
 ---------------------------------
 Docker deployment
 ----------
-0. rename .env.example to .env
-1. docker-compose build
-2. docker-compose up -d
-3. go to the link http://localhost:5000/
+1. rename .env.example to .env
+2. docker-compose build
+3. docker-compose up -d
+4. go to the link http://localhost:5000/
 
 Normal deployment
 -----------------
