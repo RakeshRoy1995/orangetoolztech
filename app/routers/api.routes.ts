@@ -1,6 +1,5 @@
 import { Router } from 'express';
 import {
-  download,
   importCustomer
 } from '../controllers/api.controller';
 
